@@ -28,6 +28,7 @@ fi
 
 if [ -n $a ]
 then
+echo "i am good"
  echo "-n $a : string length is not zero"
 else
  echo "-n $a : string length is zero"
