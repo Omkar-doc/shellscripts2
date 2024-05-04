@@ -16,6 +16,6 @@ then
 else
  echo "None of the condition met"
 fi
-commit this repo
+commit this repo checkkkkkk
 
 
